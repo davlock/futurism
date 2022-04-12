@@ -21,13 +21,11 @@ She listened, and imagined the streaming water outside as lines of music, dancin
  
 Silently, she thanked the rain for falling. 
 
-She had dreaded a clear day, as it had been 30 years ago, when her father passed -- clear, bright, gorgeous. She recalled the interment ceremony, the sensation of hot tears on her warm cheeks, the sky’s shining disposition mocking her grief. 
+She had dreaded a clear day, as it had been when her father passed -- clear, bright, gorgeous. She recalled the interment ceremony, the sensation of hot tears on her warm cheeks, the sky’s shining disposition mocking her grief. 
 
 She had loathed the sun for weeks. 
 
 That was 30 years ago. He had died early, tired, wary of the fruits of longevity research and scarred by the misuses of biotech witnessed in his youth. 
-
-// See the Nexus series by Ramez Naam for particularly plausible and jarring abuses of biotech // 
 
 The following years had been difficult for all of them, though her mother most. The loss of her partner of 43 years, and the prospect of living on, perhaps for decades still -- it had daunted. 
 Ciara-Jane. CJ. Mom. They had nearly lost her then too. 
@@ -72,7 +70,7 @@ They walked into a deep hall of vertical gardens - dense vines and hanging flowe
 
 Shapely patches of wall un-concealed by flora were revealed a honeycomb pattern of diversely sized alcoves. Fractal gargoyles of abstraction reached out from large indentations while smaller pockets, belonging to individuals or families, hosted trinkets of remembrance, books, or remained empty. 
 
-// Temple Inspiration Board: https://pin.it/4NgZTQ4 //
+// Temple: https://pin.it/4NgZTQ4 //
 
 At the base of the third column on the right, Aurora knelt to face one small prismatic cubby in the wall and read the inscription of her mother’s name. She took a breath, centered her hand in the space, and let the soil run out the bottom of her fist into a small pile. She made a small thumb-print in the middle, then ceremoniously removed her necklace and extracted a single seed from the locket. She placed the seed in the thumbprint, paused for a moment, and covered it with a thin layer of soil. She threaded a lighting filament and watering line from the pillar-face into the cubby, just above the seed.
 
@@ -121,8 +119,8 @@ The above narrative attempts to illustrate a possible future in which lifespan a
 This progress results in new strangenesses, such as:
 * Substantially differing lifespans (as between the father and mother of the protagonist)
 * Substantially overlapping lifespans (as between the protagonist and her mother)
-* Schisms, great or small, in and between communities with different views on longevity, new and varied spiritual practices
-* Different views and approaches to biotechnology and biological life broadly
+* Schisms, great or small, in and between communities with different views on longevity, new and varied spiritual practices (e.g. father refused longevity treatments,  mother finds a new spiritual community over longevity treatments, the temple is strange, the cryopreservation technicians have a vaguely spiritual demeanor)
+* And different views and approaches to biotechnology and biological life broadly
 
 
 Given the extended lifespans, the protagonist and her mother have grown close as adults, rendering her loss particularly painful. Additionally, her mother has chosen to undergo cryopreservation upon death, adding hope and uncertainty.    
@@ -131,10 +129,15 @@ Given the extended lifespans, the protagonist and her mother have grown close as
 The protagonist, Aurora, goes through an informal ritual - completing a last request for her mother by planting a flower in a greenhouse-like temple. The meaning of the ritual is unclear - perhaps one of closure–a symbolic interment–but it remains somewhat ambiguous and she fights to remain stoic throughout the day. At the end of the day, she hears of the successful cryogenic revival of a dog, implying a much stronger possibility of her mother’s eventual revival. Her friend holds Aurora as she processes the moment’s overwhelming juxtaposition of grief and hope. Having confronted some of this, she concludes the day with more peace-of-mind. In hindsight, the meaning of the day’s ritual shifts away from one of symbolic interment towards a representation of her mother’s love of life and of a seed of hope.
 
 
-I chose to focus on the build-up to a successful canine re-animation, because the context is important to imagining depth of initial reactions. The actual I hope to explore the proceeding stages through additional characters’ eye’s. 
+I chose to focus on the build-up to a successful canine re-animation, because the context is important to imagining depth of initial reactions. I hope to explore the proceeding stages through additional characters’ eye’s. 
 
 
 Actionable feedback would be appreciated. 
+
+Some references:
+- See the Nexus series by Ramez Naam for particularly plausible and jarring abuses of biotech (as mentioned in ref. to the father's early life
+- Thesies about future technological progress were inspired by the original Foresight podcast episode, as well as Prime Mover's Lab Roadmap and the Founders Fund blog
+
 
 
 &nbsp;&nbsp;
