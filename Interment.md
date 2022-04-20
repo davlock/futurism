@@ -113,7 +113,7 @@ That night, the skies cleared. As Aurora sought sleep, she imagined the seed sit
 ### Author’s Notes
 
 
-The above narrative attempts to illustrate a possible future in which lifespan and healthspan are extended, while research into longevity and cryopreservation hold much additional promise. It imagines concurrent broad technological advancement, and particularly suggests progress in biotechnology, vehicular and robotic autonomy, more intelligent and personalized algorithms, and asteroid mining. 
+The above narrative attempts to illustrate a possible future in which lifespan and healthspan have extended, while research into longevity and cryopreservation hold increasing further promise. It imagines concurrent broad technological advancement, and particularly suggests progress in biotechnology, vehicular and robotic autonomy, more intelligent and personalized algorithms, and asteroid mining. 
 
 
 This progress results in new strangenesses, such as:
@@ -128,9 +128,7 @@ Given the extended lifespans, the protagonist and her mother have grown close as
 
 The protagonist, Aurora, goes through an informal ritual - completing a last request for her mother by planting a flower in a greenhouse-like temple. The meaning of the ritual is unclear - perhaps one of closure–a symbolic interment–but it remains somewhat ambiguous and she fights to remain stoic throughout the day. At the end of the day, she hears of the successful cryogenic revival of a dog, implying a much stronger possibility of her mother’s eventual revival. Her friend holds Aurora as she processes the moment’s overwhelming juxtaposition of grief and hope. Having confronted some of this, she concludes the day with more peace-of-mind. In hindsight, the meaning of the day’s ritual shifts away from one of symbolic interment towards a representation of her mother’s love of life and of a seed of hope.
 
-
-I chose to focus on the build-up to a successful canine re-animation, because the context is important to imagining depth of initial reactions. I hope to explore the proceeding stages through additional characters’ eye’s. 
-
+I chose to focus on a day in the life of a 'normal' person who recently lost a parent, only to then hear news of a massive step forward in longevity / cryopreservation research. My hope is that the juxtaposition of those two events in the protagonist's life might provide the reader a particularly intense, personal, and relateable sample of experience.
 
 Actionable feedback would be appreciated. 
 
